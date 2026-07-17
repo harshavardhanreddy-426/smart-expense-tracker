@@ -9,5 +9,4 @@ public class SmartExpenseTrackerApplication {
     public static void main(String[] args) {
         SpringApplication.run(SmartExpenseTrackerApplication.class, args);
     }
-
 }
