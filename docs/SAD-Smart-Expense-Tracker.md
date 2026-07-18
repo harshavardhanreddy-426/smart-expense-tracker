@@ -7,6 +7,7 @@
 **Architecture Lead:** [Your Name]  
 **Technology Stack:** React 18+, Spring Boot 3.0+, Spring Security, JWT, JPA/Hibernate, MySQL 8.0+
 
+
 ---
 
 ## Table of Contents
